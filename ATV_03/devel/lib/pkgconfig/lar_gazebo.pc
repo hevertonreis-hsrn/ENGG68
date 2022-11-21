@@ -1,0 +1,8 @@
+prefix=/home/heverton/ROS_Workspaces/ENGG68/ATV_03/devel
+
+Name: lar_gazebo
+Description: Description of lar_gazebo
+Version: 1.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp gazebo_ros
